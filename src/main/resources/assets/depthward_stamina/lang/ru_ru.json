@@ -1,0 +1,11 @@
+{
+  "attribute.depthward_stamina.max_stamina": "Максимум выносливости",
+  "attribute.depthward_stamina.stamina_regeneration": "Восстановление выносливости в секунду",
+  "attribute.depthward_stamina.stamina_recovery_speed": "Скорость возобновления восстановления выносливости",
+  "attribute.depthward_stamina.weight": "Вес",
+  "attribute.depthward_stamina.parcool_cost_reduction": "Снижение расхода выносливости ParCool",
+  "attribute.depthward_stamina.spell_cost_reduction": "Снижение расхода выносливости заклинаний",
+  "attribute.depthward_stamina.shield_cost_reduction": "Снижение расхода выносливости щита",
+  "attribute.depthward_stamina.epicfight_cost_reduction": "Снижение расхода выносливости Epic Fight",
+  "attribute.depthward_stamina.bow_hold_cost_reduction": "Снижение затрат на удержание лука"
+}

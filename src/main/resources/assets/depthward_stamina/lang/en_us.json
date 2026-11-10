@@ -1,0 +1,11 @@
+{
+  "attribute.depthward_stamina.max_stamina": "Maximum Stamina",
+  "attribute.depthward_stamina.stamina_regeneration": "Stamina Regeneration per Second",
+  "attribute.depthward_stamina.stamina_recovery_speed": "Stamina Recovery Speed",
+  "attribute.depthward_stamina.weight": "Weight",
+  "attribute.depthward_stamina.parcool_cost_reduction": "ParCool Stamina Cost Reduction",
+  "attribute.depthward_stamina.spell_cost_reduction": "Spell Stamina Cost Reduction",
+  "attribute.depthward_stamina.shield_cost_reduction": "Shield Stamina Cost Reduction",
+  "attribute.depthward_stamina.epicfight_cost_reduction": "Epic Fight stamina cost reduction",
+  "attribute.depthward_stamina.bow_hold_cost_reduction": "Bow holding stamina cost reduction"
+}

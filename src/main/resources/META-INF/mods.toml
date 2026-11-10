@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+logoFile="logo.png"
+authors="justthekingg"
+modId="depthward_stamina"
+version="3.0.1"
+displayName="DepthWard Stamina"
+description='''Core stamina pool, costs, attributes and networking. Integrations supplied by Depthward Mod Compat.'''
+[[dependencies.depthward_stamina]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.4,48)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.depthward_stamina]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
